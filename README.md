@@ -21,9 +21,9 @@
 <br><br>
 
 - :school: Soy tecnologo en [Gestion de Redes de Dtos](https://sofiaplus-edu.com/courses/tecnologo-en-gestion-de-redes-de-datos/) en [Centro de Gestion de Mercados, Logistica y Tecnologias de la Iinformacion](https://sofiaplus-edu.com/).
-- :trophy: 2x ACPC Finalist.
-- :technologist: I love using Software as a solution for every Problem.
-- :computer: I am a competitive programmer at Codeforces, Atcoder, Leetcode, Codechef, Google Contests.
+- :trophy: Cerificado en CyberOps Associate.
+- :technologist: Me encanta usar el software y el hartware como solución para cada problema.
+- :computer: Soy un programador autodidacta y proactivo en dePythonde, deHTMLde, deCSSde, deJavaScriptde, deBashde, 
 - :student: I’m currently learning Computer Science and Software Engineering.
 - :nerd_face: Always learning new things.
 - :thinking: I’m currently open for a new job opportunity, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
