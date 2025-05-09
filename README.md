@@ -166,6 +166,85 @@
  
 </details>
 
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Duvan-H16&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Duvan-H16" /></a> </p>
+
+</details>
+	
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+
+<div>
+  <p align="center">
+	<a href="https://github.com/Duvan-H16/LeetCode_DailyChallenge_2023">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/Ahmed-Hossam">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Duvan-H16/Strees_Testing">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Duvan-H16/CP-Templates">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Duvan-H16/Codeforces-Polygon-Template">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/Some-Linux-Commands">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/Shorten-Link">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/7oSkaaa">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/Competitive-Programming-Session-Content">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/VS-Code-for-CP">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/Sorting-Algorithms">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/board-link-generator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/Tic-Tac-Toe-GUI">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/PhoneBook-System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/Codeforces-Sheet-Generator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/CP-Calendar">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/Codeforces-Friends-Script">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/vJudge-Board-Scrapper">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/CP-Templates-Snippets">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Duvan-H16/Udemy-Website">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvan-H16&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
+
+
 <p align="center">
   <a href="https://github.com/7oSkaaa">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&hide=prs&theme=highcontrast" alt="Ahmed's GitHub Stats" />
