@@ -134,7 +134,37 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=famous-quotes">
 </p>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/github_stats.gif?raw=true" width=50px> </picture> GitHub Stats
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Duvan-H16&theme=tokyonight_duo" alt="Duvan-H16" /></p>
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Duvan-H16's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Duvan-H16&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Duvan-H16&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Duvan-H16" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+	
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Duvan-H16&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+ 
+</details>
 
 <p align="center">
   <a href="https://github.com/7oSkaaa">
