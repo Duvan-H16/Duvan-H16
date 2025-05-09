@@ -23,7 +23,7 @@
 - :school: Soy tecnologo en [Gestion de Redes de Dtos](https://sofiaplus-edu.com/courses/tecnologo-en-gestion-de-redes-de-datos/) en [Centro de Gestion de Mercados, Logistica y Tecnologias de la Iinformacion](https://mercadoslogisticaytecnologia.blogspot.com/).
 - :trophy: Cerificado en CyberOps Associate.
 - :technologist: Me encanta usar el software y el hartware como solución para cada problema.
-- :computer: Soy un programador autodidacta y proactivo en `Python`, `HTML`, `CSS`, `JavaScript`, `Bash`, `zsh`
+- :computer: Soy un programador autodidacta y proactivo en `Python`, `HTML`, `CSS`, `JavaScript`, `Bash`, `zsh`, `Linux`, `windows servers`
 - :student: Actualmente estoy practicando y fortaleciendo mis conocimientos en `Computación`, `Implementacion de Topologias`, `Configuracion de equipos CCNA` y `Configuracion e implementacion de equipos servidores`
 - :nerd_face: Siempre con actitud y ganas de seguir aprendiendo cosas `Nuevas`.
 - :thinking: Actualmente estoy abierto a nuevas oportunidades laborales, este es [Mi CV](linkedin.com/in/robinson-herrera-569918204).
