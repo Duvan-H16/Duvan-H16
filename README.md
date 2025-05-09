@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Soy Robinson Duvan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center">Hola, Soy Robinson Duvan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Tecnologo+En+Redes+Duvan-H16;Gestion+de+Redes+de+Datos;Cyber+Security;Creacion+de+VLANs;Capasitado+en+CCNA;Instervencion+de+Redes;Cableado+Estructurado;Programacion+en+diferentes+lenguages">
@@ -23,11 +23,12 @@
 - :school: Soy tecnologo en [Gestion de Redes de Dtos](https://sofiaplus-edu.com/courses/tecnologo-en-gestion-de-redes-de-datos/) en [Centro de Gestion de Mercados, Logistica y Tecnologias de la Iinformacion](https://sofiaplus-edu.com/).
 - :trophy: Cerificado en CyberOps Associate.
 - :technologist: Me encanta usar el software y el hartware como solución para cada problema.
-- :computer: Soy un programador autodidacta y proactivo en élPythonél, élHTMLél, élCSSél, élJavaScriptél, élBashél, 
+- :computer: Soy un programador autodidacta y proactivo en `Python`, `HTML`, `CSS`, `JavaScript`, `Bash`, 
 - :student: I’m currently learning Computer Science and Software Engineering.
 - :nerd_face: Always learning new things.
 - :thinking: I’m currently open for a new job opportunity, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+<br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 <p align="center">
