@@ -244,12 +244,14 @@
 </div>
 </details>
 
+</br></br>
+	
+## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
-  <a href="https://github.com/7oSkaaa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&hide=prs&theme=highcontrast" alt="Ahmed's GitHub Stats" />
-  </a>
-  <a href="https://github.com/7oSkaaa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7oSkaaa&layout=compact&langs_count=10&theme=highcontrast" alt="Ahmed's GitHub Stats" />
-  </a>
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+	</picture>
 </p>
