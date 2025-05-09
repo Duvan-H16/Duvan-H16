@@ -20,7 +20,7 @@
 
 <br><br>
 
-- :school: Soy tecnologo en [Gestion de Redes de Dtos](https://sofiaplus-edu.com/courses/tecnologo-en-gestion-de-redes-de-datos/) en [Centro de Gestion de Mercados, Logistica y Tecnologias de la Iinformacion](https://sofiaplus-edu.com/).
+- :school: Soy tecnologo en [Gestion de Redes de Dtos](https://sofiaplus-edu.com/courses/tecnologo-en-gestion-de-redes-de-datos/) en [Centro de Gestion de Mercados, Logistica y Tecnologias de la Iinformacion](https://mercadoslogisticaytecnologia.blogspot.com/).
 - :trophy: Cerificado en CyberOps Associate.
 - :technologist: Me encanta usar el software y el hartware como solución para cada problema.
 - :computer: Soy un programador autodidacta y proactivo en `Python`, `HTML`, `CSS`, `JavaScript`, `Bash`, `zsh`
