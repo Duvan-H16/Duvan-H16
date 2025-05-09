@@ -121,9 +121,9 @@
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Soft_Skills.gif?raw=true" width=50px> </picture> Soft Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Teamwork-%2335B3A7.svg?style=plastic" alt="Trabajo en equipo"/>
-    <img src="https://img.shields.io/badge/Communication-%23FF8C00.svg?style=plastic" alt="Comunicación"/>
-  <img src="https://img.shields.io/badge/Leadership-%2333A1FD.svg?style=plastic" alt="Liderazgo"/>
+  <img src="https://img.shields.io/badge/Trabajo%20en%20equipo-%2335B3A7.svg?style=plastic" alt="Trabajo en equipo"/>
+    <img src="https://img.shields.io/badge/Comunicación-%23FF8C00.svg?style=plastic" alt="Comunicación"/>
+  <img src="https://img.shields.io/badge/Liderazgo-%2333A1FD.svg?style=plastic" alt="Liderazgo"/>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/github_stats.gif?raw=true" width=50px> </picture> GitHub Stats
