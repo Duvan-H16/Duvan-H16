@@ -40,7 +40,7 @@
   <a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344"><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50"></a>
 </p>
 -->
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Ponte en contacto conmigo
 <p align="center">
   <a href="mailto:robinson.duvan2016@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/Duvan-H16"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
