@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Soy Robinson Duvan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Tecnologo+En+Redes+Duvan-H16;Gestion+de+Redes+de+Datos;Cyber+Security;Creacion+de+VLANs;Capasitado+en+CCNA;Instervencion+de+Redes;Cableado+Estructurado;Programacion+en+diferentes+lenguages">
   </a>
 </p>
 
