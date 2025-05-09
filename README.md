@@ -20,7 +20,7 @@
 
 <br><br>
 
-- :school: Soy tecnologo en [Gestion de Redes de Dtos](https://sofiaplus-edu.com/courses/tecnologo-en-gestion-de-redes-de-datos/) en [CENTRO DE GESTIÓN DE MERCADOS, LOGÍSTICA Y TECNOLOGÍAS DE LA INFORMACIÓN]([http://suez.edu.eg/ar/](https://sofiaplus-edu.com/)).
+- :school: Soy tecnologo en [Gestion de Redes de Dtos](https://sofiaplus-edu.com/courses/tecnologo-en-gestion-de-redes-de-datos/) en [Centro de Gestion de Mercados, Logistica y Tecnologias de la Iinformacion](https://sofiaplus-edu.com/).
 - :trophy: 2x ACPC Finalist.
 - :technologist: I love using Software as a solution for every Problem.
 - :computer: I am a competitive programmer at Codeforces, Atcoder, Leetcode, Codechef, Google Contests.
