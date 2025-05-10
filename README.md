@@ -26,7 +26,7 @@
 - :computer: Soy un programador autodidacta y proactivo en `Python`, `HTML`, `CSS`, `JavaScript`, `Bash`, `zsh`, `Linux`, `windows servers`
 - :student: Actualmente estoy practicando y fortaleciendo mis conocimientos en `Computación`, `Implementacion de Topologias`, `Configuracion de equipos CCNA` y `Configuracion e implementacion de equipos servidores`
 - :nerd_face: Siempre con actitud y ganas de seguir aprendiendo cosas `Nuevas`.
-- :thinking: Actualmente estoy abierto a nuevas oportunidades laborales, este es [Mi CV](linkedin.com/in/robinson-herrera-569918204).
+- :thinking: Actualmente estoy abierto a nuevas oportunidades laborales, este es [Mi CV](https://github.com/Duvan-H16/Duvan-H16/blob/main/CV%20Robinson%20Duvan.pdf).
 - :boom: Puedes visitar [Mi Sitio Web](https://systemsandsolutionsit.github.io/).
 <br>
 <!--
